@@ -26,7 +26,6 @@ I enjoy creating clean, reusable, and maintainable software while continuously e
 ### 💳 Easy Payments
 
 [![npm version](https://img.shields.io/npm/v/@easy-payments/angular.svg)](https://www.npmjs.com/package/@easy-payments/angular)
-[![npm downloads](https://img.shields.io/npm/dm/@easy-payments/angular.svg)](https://www.npmjs.com/package/@easy-payments/angular)
 
 📦 **Available on npm:** [@easy-payments/angular](https://www.npmjs.com/package/@easy-payments/angular)
 
