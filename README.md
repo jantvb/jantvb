@@ -49,5 +49,5 @@ Start with mock mode to explore the checkout without payment credentials. The pa
 
 I'm open to discussing software engineering, open-source projects, and new opportunities.
 
-- **LinkedIn:** `josevicente07`
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/josevicente07/)
 - **Easy Payments:** [www.easy-payments.dev](https://www.easy-payments.dev/)
